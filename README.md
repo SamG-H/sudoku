@@ -1,0 +1,1 @@
+Simple text-based sudoku application that reads a file with numbers 0-9 with 0 being spots that will be rendered as empty for the user to input. File needs to have spaces between numbers to be read and saved properly.
