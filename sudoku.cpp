@@ -135,7 +135,7 @@ void editSquare(int board[][9])
    else
       trueCol = 8;
 
-   if (board[trueCol][trueRow] != 0)
+   if (board[trueRow][trueCol] != 0)
    {
       cout << "ERROR: Square " << "\'" << col << row << "\' is filled\n\n";
       return;
